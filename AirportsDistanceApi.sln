@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportsDistanceApi", "AirportsDistanceApi\AirportsDistanceApi.csproj", "{9F7AF9D4-2F78-4605-8A62-5A7FED18B3D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportsDistanceApi.Tests", "AirportsDistanceApi.Tests\AirportsDistanceApi.Tests.csproj", "{73C83FB0-6C2D-424D-B6B6-7B21280F28AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7AF9D4-2F78-4605-8A62-5A7FED18B3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7AF9D4-2F78-4605-8A62-5A7FED18B3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7AF9D4-2F78-4605-8A62-5A7FED18B3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7AF9D4-2F78-4605-8A62-5A7FED18B3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C83FB0-6C2D-424D-B6B6-7B21280F28AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C83FB0-6C2D-424D-B6B6-7B21280F28AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C83FB0-6C2D-424D-B6B6-7B21280F28AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C83FB0-6C2D-424D-B6B6-7B21280F28AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE2B7226-BB96-41D1-B2FB-E34ED2346515}
+	EndGlobalSection
+EndGlobal
